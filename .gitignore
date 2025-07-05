@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Node.js dependencies
+node_modules/
+
+# IDEs and editors
+.idea/
+
+# Build output
+dist/
+build/
+tmp/
+
+package-lock.json
+
